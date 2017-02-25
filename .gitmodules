@@ -1,0 +1,3 @@
+[submodule "ansible-motd"]
+	path = ansible-motd
+	url = https://github.com/sixpac009/ansible-motd.git
